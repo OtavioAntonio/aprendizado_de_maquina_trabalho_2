@@ -1,0 +1,2 @@
+LLM,nº perguntas,nota média COM RAG,nota média SEM RAG,ganho do RAG,Hit@5,MRR,tempo médio RAG (s)
+qwen-3b,30,0.667,0.067,0.6,0.808,0.523,3.9
